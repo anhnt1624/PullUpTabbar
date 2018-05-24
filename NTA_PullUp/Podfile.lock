@@ -1,0 +1,17 @@
+PODS:
+  - google-cast-sdk (3.2.0):
+    - google-cast-sdk/Core (= 3.2.0)
+  - google-cast-sdk/Core (3.2.0)
+  - ISHPullUp (1.0.5)
+
+DEPENDENCIES:
+  - google-cast-sdk (= 3.2.0)
+  - ISHPullUp
+
+SPEC CHECKSUMS:
+  google-cast-sdk: f4c2a14214ad486cc26a8f8837e8481c906a0ea8
+  ISHPullUp: 2a7208631422b91c7d5ce4556c86d182921823df
+
+PODFILE CHECKSUM: 8b806952fc259ce02c9f1aeca66ebabc9aa37683
+
+COCOAPODS: 1.3.1
